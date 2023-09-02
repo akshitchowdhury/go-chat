@@ -4,6 +4,12 @@
     width: 20%;
     height: 20%;
 }
+.container{
+    max-width: 955px;
+    background-color: aqua;
+    margin: auto;
+    height: 60vh;
+}
 
 .message{
     background-color: grey;
